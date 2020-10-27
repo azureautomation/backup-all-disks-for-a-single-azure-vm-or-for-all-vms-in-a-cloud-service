@@ -1,0 +1,20 @@
+{
+    "Author": "ziggy n",
+    "ContentSize": 8161,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/backup-all-disks-for-a-single-azure-vm-or-for-all-vms-in-a-cloud-service/master/Backup-AzureVMs.ps1",
+    "DownloadCount": 1293,
+    "Id": "Backup-all-disks-for-a-ede940d5",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 219,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2015-4-10T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "Using Azure Automation, back up the VHD OS and data disks of a specific virtual machine, or of all virtual machines in a cloud service. The backed up VHDs are saved to a new container in the existing storage account of the virtual machine.",
+    "Title": "Backup all disks for a single Azure VM or for all VMs in a Cloud Service",
+    "UpdatedDate": "2015-4-10T00:00:00",
+    "Url": "https://github.com/azureautomation/backup-all-disks-for-a-single-azure-vm-or-for-all-vms-in-a-cloud-service",
+    "UserTags": "backup, Virtual Disk Drives, Windows Azure Virtual Machines"
+}
